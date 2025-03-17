@@ -1,11 +1,10 @@
-# [opencv 특강]⭐️
-## 이스트소프트 2024/10, 2025/02~05
+# [opencv]⭐️
 ## 개인정보 비식별화 기술 OpenCV 파이썬 코드
 
-## 👨‍🏫 특강 목표
+## 👨‍🏫 목표
 ### python과 opencv를 사용하여 이미지와 영상을 다루고, 보안 솔루션에 사용되는 인물/객체 인식 및 비식별화(blurring)을 경험하여 실전에 응용할 수 있는 실습 및 이론학습을 하여 봅니다.
 
-## 🏷 특강일정 
+## 🏷 일정 
 <img src="https://raw.githubusercontent.com/dscoool/opencv/refs/heads/main/image.png">
 
 ### [2024/11/24 sample lecture](https://github.com/dscoool/opencv/blob/main/sample_lecture.ipynb)
@@ -102,40 +101,4 @@ $ git clone https://github.com/dscoool/opencv.git
 ### 🏷 [실시간 비디오 처리 + 객체 추적]
 ### [YOLO webcam object detection](https://dipankarmedh1.medium.com/real-time-object-detection-with-yolo-and-webcam-enhancing-your-computer-vision-skills-861b97c78993)
 
-## 수강생 여러분 수고하셨습니다!! 👩‍💻
-
 ##### [Lab | OpenCV](https://gdsc-yonsei.github.io/mlresearch/Python1-Sebin/)
-
-## [취업자료]
-
-#### [깃허브 페이지 / 포트폴리오 만들기](https://brunch.co.kr/@everiwon/42)
-
-#### [Notion 이력서 샘플](https://github.com/dscoool/opencv/blob/main/notion_resume_sample.htm)
-
-#### [샘플1](https://dev-lob.notion.site/27-Junior-Backend-Developer-e51c02b15e89401abe00604d95d4846d)
-
-#### [샘플 번들 2](https://github.com/codingmonster-tv/Awesome_Resume_Portfolio?tab=readme-ov-file)
-
-#### [노션 샘플 3](https://dev-lob.notion.site/27-Junior-Backend-Developer-e51c02b15e89401abe00604d95d4846d)
-
-#### [샘플 4](https://hyunseob.github.io/resume/)
-
-#### [notion.site 도메인생성](https://www.notion.so/help/manage-your-notion-sites)
-
-#### [이력서 샘플](https://docs.google.com/document/d/1Y2Y7-DWO-0F68nsUxB-ObYbXTdQgBHu-Fw48yTYG6R0/edit?usp=sharing)
-
-
-### [정재민 노션 이력서](http://jaeminjjeong.notion.site)
-
-#### [노션 Tip.1] 기본 시작 페이지 변경
-Notion을 시작할 때 표시되는 페이지를 변경할 수 있습니다. 홈 오른쪽 상단의 ••• 아이콘을 선택하고 기본 시작 페이지 변경 을 선택하세요. 그 다음, 홈 , 마지막 방문 페이지 또는 사이드바 최상위 페이지 를 선택하세요.
-
-#### [노션 Tip.2] xxxxx.notion.site 도메인 설정하기
-새로운 notion.site 도메인을 사용자 지정하고 요청하는 방법은 아래와 같습니다.
-사이드바의 설정과 멤버 에서 사이트 로 이동하세요.
-도메인 옆의 새 도메인 을 선택하세요.
-Notion 도메인 → 계속 을 선택하세요.
-원하는 도메인을 입력하세요.
-도메인 생성 을 선택하세요.
-
-[참조 | (name/id).github.io 생성방법](https://dnight.tistory.com/entry/GitHubio-%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0)
